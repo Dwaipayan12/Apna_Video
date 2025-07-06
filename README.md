@@ -22,7 +22,7 @@
 ---
 
 ## 📷 Screenshots
-![Home Page](https://github.com/yourusername/apna-video-call/blob/main/homepage.png?raw=true)
+![Home Page]([https://github.com/Dwaipayan12/Apna_Video/blob/main/Screenshot%202025-07-06%20232716.jpg?raw=true])
 ---
 
 ## 📁 Installation and Setup
