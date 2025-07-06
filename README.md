@@ -29,10 +29,10 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/Dwaipayan12/apna video.git
+git clone https://github.com/Dwaipayan12/Apna_Video.git
 
 # Go to the project directory
-cd apna-video
+cd Apna_Video
 
 # Install dependencies
 npm install
