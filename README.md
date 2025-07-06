@@ -20,19 +20,19 @@
 - Minimal latency & smooth connection
 
 ---
-
 ## 📷 Screenshots
-![Home Page]([https://github.com/Dwaipayan12/Apna_Video/blob/main/Screenshot%202025-07-06%20232716.jpg?raw=true])
+![Home Page](https://github.com/Dwaipayan12/Apna_Video/blob/main/Screenshot%202025-07-06%20232716.jpg?raw=true)
+
 ---
 
 ## 📁 Installation and Setup
 
 ```bash
 # Clone the repo
-git clone https://github.com/Dwaipayan12/apna-video-call.git
+git clone https://github.com/Dwaipayan12/apna video.git
 
 # Go to the project directory
-cd apna-video-call
+cd apna-video
 
 # Install dependencies
 npm install
